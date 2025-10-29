@@ -20,8 +20,7 @@ repository = "https://github.com/n0nSmoker/SQLAlchemy-serializer"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-SQLAlchemy = "2.0.29"
-psycopg2-binary = "2.9.9"
+SQLAlchemy = "^2.0.29"
 pytz = "^2024.1"
 setuptools = "^70.1.1"
 
